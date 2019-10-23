@@ -862,4 +862,12 @@ module.exports.list = [
     github_username: 'siwaniagrawal',
     twitter_username: 'siwani_agrawal',
   },
+  {
+    name: 'Ivo',
+    country: 'Croatia',
+    role: 'Software Developer',
+    tech_stack: ['JavaScript', 'React', 'Nodejs'],
+    github_username: 'botelja',
+    twitter_username: '#',
+  },
 ];
